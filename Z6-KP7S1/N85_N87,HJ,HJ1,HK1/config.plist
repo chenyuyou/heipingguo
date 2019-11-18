@@ -254,7 +254,7 @@
 		<key>#DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=0 -cdfon -igfxnohdmi lilucpu=9</string>
+		<string>dart=0 nv_disable=1 -cdfon -igfxnohdmi lilucpu=9</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>NeverHibernate</key>
