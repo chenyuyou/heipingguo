@@ -24,17 +24,17 @@ Update 2019.11.18
 
 | 名称               | 版本  | 名称                | 版本  |
 | ------------------ | ----- | ------------------- | ----- |
-| FakeSMC            | 1800  | Lilu                | 1.3.9 |
-| WhateverGreen      | 1.3.4 | AppleALC            | 1.4.3 |
-| RTL8111            | 2.2.2 | USBinjectAll        | 0.7.1 |
-| AirportBrcmFixup   | 2.04  | CPUFriend           | 1.1.9 |
-| HibernationFixup   | 1.3.0 | NoTouchID           | 1.0.2 |
-| RTCMemoryFixup     | 1.0.4 | VoodooPS2Controller | 2.0.4 |
+| FakeSMC            | 1800  | Lilu                | 1.4.0 |
+| WhateverGreen      | 1.3.5 | AppleALC            | 1.4.4 |
+| RTL8111            | 2.2.2 | USBinjectAll        | 0.7.4 |
+| AirportBrcmFixup   | 2.0.4 | CPUFriend           | 1.1.9 |
+| HibernationFixup   | 1.3.1 | NoTouchID           | 1.0.3 |
+| RTCMemoryFixup     | 1.0.4 | VoodooPS2Controller | 2.1.0 |
 | ACPIBatteryManager |       |                     |       |
 
 ### 1）显卡
 
-WhateverGreen
+WhateverGreen，但并没有解决显卡硬解的问题。
 
 ###  2）声卡
 

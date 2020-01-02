@@ -33,13 +33,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					T1NJRA==
-					</data>
+					<data>T1NJRA==</data>
 					<key>Replace</key>
-					<data>
-					WFNJRA==
-					</data>
+					<data>WFNJRA==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -47,13 +43,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					X09TSQ==
-					</data>
+					<data>X09TSQ==</data>
 					<key>Replace</key>
-					<data>
-					WE9TSQ==
-					</data>
+					<data>WE9TSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -61,13 +53,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					X0RTTQ==
-					</data>
+					<data>X0RTTQ==</data>
 					<key>Replace</key>
-					<data>
-					WERTTQ==
-					</data>
+					<data>WERTTQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -75,13 +63,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					RUMwXw==
-					</data>
+					<data>RUMwXw==</data>
 					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
+					<data>RUNfXw==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -89,13 +73,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					SF9FQw==
-					</data>
+					<data>SF9FQw==</data>
 					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
+					<data>RUNfXw==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -103,13 +83,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					RUNEVg==
-					</data>
+					<data>RUNEVg==</data>
 					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
+					<data>RUNfXw==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -117,27 +93,19 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
+					<data>SERBUw==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change HECI to IMEI</string>
 					<key>Disabled</key>
-					<false/>
+					<true/>
 					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
+					<data>SEVDSQ==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -145,13 +113,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					TUVJXw==
-					</data>
+					<data>TUVJXw==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -159,55 +123,39 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
+					<data>R0ZYMA==</data>
 					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
+					<data>SUdQVQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change PCI0.VID to IGPU #1 (Thinkpad)</string>
 					<key>Disabled</key>
-					<false/>
+					<true/>
 					<key>Find</key>
-					<data>
-					UENJMFZJRF8=
-					</data>
+					<data>UENJMFZJRF8=</data>
 					<key>Replace</key>
-					<data>
-					UENJMElHUFU=
-					</data>
+					<data>UENJMElHUFU=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change PCI0.VID to IGPU #2 (Thinkpad)</string>
 					<key>Disabled</key>
-					<false/>
+					<true/>
 					<key>Find</key>
-					<data>
-					VklEXwhfQURSDAAAAgA=
-					</data>
+					<data>VklEXwhfQURSDAAAAgA=</data>
 					<key>Replace</key>
-					<data>
-					SUdQVQhfQURSDAAAAgA=
-					</data>
+					<data>SUdQVQhfQURSDAAAAgA=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>Rename AZAL to HDEF (Audio)</string>
 					<key>Disabled</key>
-					<false/>
+					<true/>
 					<key>Find</key>
-					<data>
-					QVpBTA==
-					</data>
+					<data>QVpBTA==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 			</array>
 		</dict>
@@ -276,13 +224,11 @@
 				<key>Device</key>
 				<string>NVidia</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Key</key>
 				<string>name</string>
 				<key>Value</key>
-				<data>
-				I2Rpc3BsYXkA
-				</data>
+				<data>I2Rpc3BsYXkA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -290,7 +236,7 @@
 				<key>Device</key>
 				<string>NVidia</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Key</key>
 				<string>IOName</string>
 				<key>Value</key>
@@ -302,13 +248,11 @@
 				<key>Device</key>
 				<string>NVidia</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Key</key>
 				<string>class-code</string>
 				<key>Value</key>
-				<data>
-				/////w==
-				</data>
+				<data>/////w==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -316,13 +260,11 @@
 				<key>Device</key>
 				<string>ATI</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Key</key>
 				<string>name</string>
 				<key>Value</key>
-				<data>
-				I2Rpc3BsYXkA
-				</data>
+				<data>I2Rpc3BsYXkA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -330,7 +272,7 @@
 				<key>Device</key>
 				<string>ATI</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Key</key>
 				<string>IOName</string>
 				<key>Value</key>
@@ -342,13 +284,11 @@
 				<key>Device</key>
 				<string>ATI</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Key</key>
 				<string>class-code</string>
 				<key>Value</key>
-				<data>
-				/////w==
-				</data>
+				<data>/////w==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -356,13 +296,11 @@
 				<key>Device</key>
 				<string>ATI</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Key</key>
 				<string>vendor-id</string>
 				<key>Value</key>
-				<data>
-				//8AAA==
-				</data>
+				<data>//8AAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -370,13 +308,11 @@
 				<key>Device</key>
 				<string>ATI</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Key</key>
 				<string>device-id</string>
 				<key>Value</key>
-				<data>
-				//8AAA==
-				</data>
+				<data>//8AAA==</data>
 			</dict>
 		</array>
 		<key>Audio</key>
@@ -397,126 +333,6 @@
 		</dict>
 		<key>Properties</key>
 		<dict>
-			<key>PciRoot(0)/Pci(0x02,0)</key>
-			<dict>
-				<key># DVMT-prealloc</key>
-				<string>32MB BIOS, 19MB framebuffer, 9MB cursor bytes (credit RehabMan)</string>
-				<key>## @0 LVDS-&gt;DP</key>
-				<string></string>
-				<key>## @1 HDMI</key>
-				<string></string>
-				<key>## @2 HDMI</key>
-				<string></string>
-				<key>## @3 HDMI</key>
-				<string></string>
-				<key>## patch0</key>
-				<string>Enable lid wake for 0x19260002 credit syscl/lighting/Yating Zhou</string>
-				<key>## patch1</key>
-				<string>Enable lid wake for 0x19260004 credit syscl/lighting/Yating Zhou</string>
-				<key>#AAPL00,override-no-edid</key>
-				<data>
-				</data>
-				<key>#framebuffer-con0-enable</key>
-				<integer>1</integer>
-				<key>#framebuffer-con0-type</key>
-				<data>
-				AAQAAA==
-				</data>
-				<key>#framebuffer-con1-enable</key>
-				<integer>1</integer>
-				<key>#framebuffer-con1-flags</key>
-				<data>
-				hwEAAA==
-				</data>
-				<key>#framebuffer-con1-pipe</key>
-				<data>
-				EgAAAA==
-				</data>
-				<key>#framebuffer-con1-type</key>
-				<data>
-				AAgAAA==
-				</data>
-				<key>#framebuffer-con2-enable</key>
-				<integer>1</integer>
-				<key>#framebuffer-con2-flags</key>
-				<data>
-				hwEAAA==
-				</data>
-				<key>#framebuffer-con2-pipe</key>
-				<data>
-				EgAAAA==
-				</data>
-				<key>#framebuffer-con2-type</key>
-				<data>
-				AAgAAA==
-				</data>
-				<key>#framebuffer-con3-enable</key>
-				<integer>1</integer>
-				<key>#framebuffer-con3-flags</key>
-				<data>
-				hwEAAA==
-				</data>
-				<key>#framebuffer-con3-pipe</key>
-				<data>
-				EgAAAA==
-				</data>
-				<key>#framebuffer-con3-type</key>
-				<data>
-				AAgAAA==
-				</data>
-				<key>#framebuffer-patch0-enable</key>
-				<integer>1</integer>
-				<key>#framebuffer-patch0-find</key>
-				<data>
-				ChMDAAAABgAAAAAAAAAAAA==
-				</data>
-				<key>#framebuffer-patch0-replace</key>
-				<data>
-				DxMDAAAABgAAAAAAAAAAAA==
-				</data>
-				<key>#framebuffer-patch1-enable</key>
-				<integer>1</integer>
-				<key>#framebuffer-patch1-find</key>
-				<data>
-				CgsDAAAHBgADAAAABAAAAA==
-				</data>
-				<key>#framebuffer-patch1-replace</key>
-				<data>
-				DwsDAAAHBgADAAAABAAAAA==
-				</data>
-				<key>#hda-gfx</key>
-				<string>onboard-1</string>
-				<key>AAPL,ig-platform-id</key>
-				<data>
-				AAAbGQ==
-				</data>
-				<key>device-id</key>
-				<data>
-				FhkAAA==
-				</data>
-				<key>framebuffer-fbmem</key>
-				<data>
-				AACQAA==
-				</data>
-				<key>framebuffer-patch-enable</key>
-				<integer>1</integer>
-				<key>framebuffer-stolenmem</key>
-				<data>
-				AAAwAQ==
-				</data>
-			</dict>
-			<key>PciRoot(0)/Pci(0x1f,3)</key>
-			<dict>
-				<key>#PinConfigurations</key>
-				<data>
-				</data>
-				<key>#hda-gfx</key>
-				<string>onboard-1</string>
-				<key>#layout-id</key>
-				<integer>3</integer>
-				<key>#no-controller-patch</key>
-				<integer>1</integer>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
@@ -524,70 +340,42 @@
 				<key>device_type</key>
 				<string>Audio device</string>
 				<key>layout-id</key>
-				<data>
-				BgAAAA==
-				</data>
+				<data>BgAAAA==</data>
 				<key>model</key>
 				<string>CM238 HD Audio Controller</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>
-				AAAWWQ==
-				</data>
+				<data>AAAWWQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
-				<data>
-				FlkAAA==
-				</data>
+				<data>FlkAAA==</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>disable-external-gpu</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
-				<data>
-				AAgAAA==
-				</data>
+				<data>AAgAAA==</data>
 				<key>framebuffer-con2-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con2-index</key>
-				<data>
-				/////w==
-				</data>
+				<data>/////w==</data>
 				<key>framebuffer-fbmem</key>
-				<data>
-				AACQAA==
-				</data>
+				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-portcount</key>
-				<data>
-				AgAAAA==
-				</data>
+				<data>AgAAAA==</data>
 				<key>framebuffer-stolenmem</key>
-				<data>
-				AAAwAQ==
-				</data>
+				<data>AAAwAQ==</data>
 				<key>framebuffer-unifiedmem</key>
-				<data>
-				AAAAgA==
-				</data>
+				<data>AAAAgA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-2</string>
 				<key>model</key>
@@ -641,6 +429,7 @@
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
+			<string>Recovery</string>
 		</array>
 		<key>Language</key>
 		<string>cn:0</string>
@@ -708,13 +497,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				ILniAAAADzA=
-				</data>
+				<data>ILniAAAADzA=</data>
 				<key>Replace</key>
-				<data>
-				ILniAAAAkJA=
-				</data>
+				<data>ILniAAAAkJA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -722,15 +507,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				igKEwHRE
-				</data>
+				<data>igKEwHRE</data>
 				<key>MatchOS</key>
 				<string>10.13.x</string>
 				<key>Replace</key>
-				<data>
-				igKEwOtE
-				</data>
+				<data>igKEwOtE</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -738,15 +519,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				igKEwHRC
-				</data>
+				<data>igKEwHRC</data>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Replace</key>
-				<data>
-				igKEwOtC
-				</data>
+				<data>igKEwOtC</data>
 			</dict>
 		</array>
 	</dict>
